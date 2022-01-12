@@ -1,0 +1,6 @@
+git init
+git add README.md
+git add jupyter-labs-eda-sql-coursera.ipynb
+git commit -m "notebook first commit"
+git remote add origin https://github.com/{testrepo}/jupyter-labs-eda-sql-coursera.git
+git push -u origin master
